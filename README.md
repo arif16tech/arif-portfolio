@@ -1,16 +1,26 @@
-# React + Vite
+# 🌐 Mohammad Arif – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website built to showcase my projects, technical skills, and experience as a full-stack web developer.
 
-Currently, two official plugins are available:
+🔗 **Live Portfolio:** https://arif-portfolio-delta-one.vercel.app/ 
+📄 **Resume:** Available for download on the website  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Fully responsive design for mobile, tablet, and desktop  
+- Interactive hero section with smooth scrolling navigation  
+- Projects showcase with detailed descriptions  
+- Technical skills section with visual layout  
+- Resume download option  
+- Contact section for easy communication  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+**Frontend:** React.js, HTML5, CSS3  
+**Styling:** CSS Modules  
+**Version Control:** Git & GitHub  
+**Development Tools:** VS Code  
